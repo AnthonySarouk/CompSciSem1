@@ -1,0 +1,2 @@
+String one = new string ("hello")
+System.out.print(one)
